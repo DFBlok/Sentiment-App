@@ -1,0 +1,11 @@
+text,sentiment,confidence,keywords
+I absolutely loved the new update!,POSITIVE,0.9999,"new, update, loved, absolutely"
+"Terrible experience, nothing worked.",NEGATIVE,0.9996,"terrible, worked, experience"
+"Not bad, but could be better.",NEGATIVE,0.8016,"bad, better"
+Customer service was excellent.,POSITIVE,0.9998,"customer, service, excellent"
+I'm not satisfied with the quality.,NEGATIVE,0.9997,"quality, satisfied"
+Decent value for money.,POSITIVE,0.9998,"decent, value, money"
+I had a fantastic time using this app.,POSITIVE,0.9998,"app, using, fantastic, time"
+"It was okay, nothing special.",NEGATIVE,0.9821,"special, okay"
+Highly recommend this product!,POSITIVE,0.9999,"recommend, product, highly"
+Wouldn't buy it again.,NEGATIVE,0.9917,"wouldn, buy"
