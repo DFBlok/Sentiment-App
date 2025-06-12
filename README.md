@@ -3,7 +3,7 @@
 An interactive NLP-powered sentiment analysis web application that analyzes input text or uploaded documents, visualizes results, and allows exporting in multiple formats. Built with **Streamlit** and powered by **Hugging Face Transformers**.
 
 **🔗 Live App:** [https://dfblok-sentiment-app-srcapp-fwvh5u.streamlit.app/](https://dfblok-sentiment-app-srcapp-fwvh5u.streamlit.app/)  
-**📁 GitHub Repository:** [Insert your GitHub repo link here]
+**📁 GitHub Repository:** [[https://github.com/DFBlok/Sentiment-App](https://github.com/DFBlok/Sentiment-App)]
 
 ---
 
@@ -48,6 +48,7 @@ pip install -r requirements.txt
 # Run the application
 streamlit run app.py
 
+```
 
 # 🎥 Demo Video Outline
 
