@@ -50,19 +50,15 @@ streamlit run app.py
 
 ```
 
-# 🎥 Demo Video Outline
+## 🎥 Demo Video Outline
+[Click here to watch the demo video](https://www.loom.com/share/c34cc2bc243d427fb2fcbdb0d16c0531?sid=7ae036b9-ef58-4cb5-8f1a-6e1d2d64ed75){:target:"_blank"}
 
-
-# 📘 Example Usage
-Upload a .csv with a text column OR paste a paragraph manually
-
-Click Analyze
-
-Expand results for explanations and keywords
-
-View sentiment graphs
-
-Download PDF, CSV, or DOCX results
+## 📘 Example Usage
+1. Upload a `.csv` file with a `text` column or paste a paragraph manually.
+2. Click **Analyze** to run the sentiment analysis.
+3. View individual sentiment results with icons and confidence scores.
+4. Expand each entry to see keyword drivers and explanations.
+5. Download results as PDF, CSV, or DOCX.
 
 # 🙌 Contributing
 Feel free to open issues, suggest improvements, or contribute to the project via PRs.
