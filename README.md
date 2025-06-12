@@ -51,7 +51,7 @@ streamlit run app.py
 ```
 
 ## 🎥 Demo Video Outline
-[Click here to watch the demo video](https://www.loom.com/share/c34cc2bc243d427fb2fcbdb0d16c0531?sid=7ae036b9-ef58-4cb5-8f1a-6e1d2d64ed75){:target:"_blank"}
+[Click here to watch the demo video](https://www.loom.com/share/c34cc2bc243d427fb2fcbdb0d16c0531?sid=7ae036b9-ef58-4cb5-8f1a-6e1d2d64ed75{:target:"_blank"})
 
 ## 📘 Example Usage
 1. Upload a `.csv` file with a `text` column or paste a paragraph manually.
